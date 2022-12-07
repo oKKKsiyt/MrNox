@@ -1,2 +1,2 @@
-# MrNox
+# MrNox - News
 🎉Mr. Nox - The best bot to play mafia with friends...
